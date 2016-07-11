@@ -1,3 +1,4 @@
+```
 .
 ├── data
 │   └── raw
@@ -33,5 +34,4 @@
     │   ├── test_example.py
     │   └── test_lab4_solutions.py
     └── utils.py
-
-10 directories, 24 files
+```
