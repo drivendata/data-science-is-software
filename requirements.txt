@@ -20,3 +20,4 @@ matplotlib
 watermark
 scikit-learn
 scipy
+nbdime
