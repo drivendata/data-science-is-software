@@ -21,3 +21,4 @@ watermark
 scikit-learn
 scipy
 nbdime
+runipy
