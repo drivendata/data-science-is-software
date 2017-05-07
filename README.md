@@ -1,3 +1,14 @@
+# Data science is Software: #lifehacks for the Jupyer data scientist
+----------
+
+### Materials for the 1.5 hr talk: (Updated for ODSC East 2017)
+
+ - [Slides](https://github.com/drivendata/data-science-is-software/blob/master/slides/Data%20Science%20is%20Software%20-%201hr%20lecture%20-%20Slides.pdf)
+ - [Commandline Demo Script](https://github.com/drivendata/data-science-is-software/blob/master/slides/commandline_script.md)
+ - [Jupyter Notebook](https://github.com/drivendata/data-science-is-software/blob/master/notebooks/1-hr-lecture.ipynb)
+ - [Example project that was created during the talk](https://github.com/pjbull/pumps)
+
+
 ```
 .
 ├── data
