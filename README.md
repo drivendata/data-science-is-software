@@ -3,6 +3,8 @@
 
 ### Materials for the 1.5 hr talk: (Updated for ODSC East 2017)
 
+[![ODSC 2017 Video](https://img.youtube.com/vi/HM56wCNxCnQ/0.jpg)](https://www.youtube.com/watch?v=HM56wCNxCnQ)
+
  - [Slides](https://github.com/drivendata/data-science-is-software/blob/master/slides/Data%20Science%20is%20Software%20-%201hr%20lecture%20-%20Slides.pdf)
  - [Commandline Demo Script](https://github.com/drivendata/data-science-is-software/blob/master/slides/commandline_script.md)
  - [Jupyter Notebook](https://github.com/drivendata/data-science-is-software/blob/master/notebooks/1-hr-lecture.ipynb)
